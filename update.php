@@ -102,7 +102,7 @@
 
 
             <br><br>
-            <h2> Extra Information </h2>
+            <h2> Extra Information (Optional) </h2>
             <br><br>
 
             
